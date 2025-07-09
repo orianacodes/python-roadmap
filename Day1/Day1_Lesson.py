@@ -1,6 +1,5 @@
 #Oriana J.
 #Day 1:Python basics
-#07/08/2025
 
 #Objectives:
 #Learn how to print messages to the screen
