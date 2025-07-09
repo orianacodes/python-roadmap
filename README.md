@@ -1,17 +1,21 @@
-# Python-Roadmap
+# 🐍 Python Roadmap
+Welcome to my Python learning progress! 
+
 **By Oriana (@orianacodes)**  
 
 ## 🙋‍♀️ About Me
-
-My name is Oriana. I'm a senior Computer Science student currently focused on developing real-world programming skills in Python.  
+Hi! I'm **Oriana**  I'm a senior Computer Science student currently focused on developing real-world programming skills in Python.  
 This project is part of my personal learning journey and portfolio.
 
-  GitHub: [@orianacodes](https://github.com/orianacodes)  
-  Instagram: [@studytsukue]([https://instagram.com/your_instagram_handle](https://www.instagram.com/studytsukue/))
+## 🔗 My Profiles
+GitHub: [@orianacodes](https://github.com/orianacodes)  
+Instagram: [@studytsukue]([https://instagram.com/your_instagram_handle](https://www.instagram.com/studytsukue/))
 
+## 🚀 Plans
+As a Computer Science senior, I am focused on building a strong foundation in Python and other programming languages to prepare for future roles in software development, data analysis, or related fields in technology. This repository documents my commitment to mastering Python through consistent, daily practice.
 
-This repository documents my commitment to mastering Python through consistent, daily practice.
+## 📁 Folder Organization
+Each folder contains a daily lesson and practice exercise.
 
-As a Computer Science senior, I am focused on building a strong foundation in Python and other programming languages to prepare for future roles in software development, data analysis, or related fields in technology.
-
-Each folder contains a daily lesson and practice exercise, covering both fundamental and advanced concepts, with the goal of applying them in d professional environments.
+## 🙏 Thank You
+Thank you for taking the time to visit my Python roadmap repository. I appreciate your support :) 
