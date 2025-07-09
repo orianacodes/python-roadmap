@@ -17,7 +17,8 @@ As a Computer Science senior, I am focused on building a strong foundation in Py
 
 ## 📁 Folder Organization
 Each folder contains a description, daily lesson and practice exercise.
-DAY _
+
+Folder Name
 - Description
 - Lesson Contents
 - Practice 
