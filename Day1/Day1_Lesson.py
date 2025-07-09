@@ -30,7 +30,7 @@ print("Nice to meet you, ",user_name)
 # ------------------------------------------------------------#
 # 4. String concatenation & Formatting (two options)
 #option 1
-print ("your name is " + user_name
+print ("your name is " + user_name)
 
 #option 2
 print(f"hello, {user_name}!")
