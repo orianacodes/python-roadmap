@@ -9,7 +9,8 @@ This project is part of my personal learning journey and portfolio.
 
 ## 🔗 My Profiles
 GitHub: [@orianacodes](https://github.com/orianacodes)  
-Instagram: [@studytsukue]([https://instagram.com/your_instagram_handle](https://www.instagram.com/studytsukue/))
+Instagram: [@studytsukue](https://www.instagram.com/studytsukue/)
+
 
 ## 🚀 Plans
 As a Computer Science senior, I am focused on building a strong foundation in Python and other programming languages to prepare for future roles in software development, data analysis, or related fields in technology. This repository documents my commitment to mastering Python through consistent, daily practice.
