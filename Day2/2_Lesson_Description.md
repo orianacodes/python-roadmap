@@ -1,6 +1,6 @@
-#Day 2: Python Data Types and Basic Operations
+## Day 2: Python Data Types and Basic Operations
 
-##Concepts covered:
+## Concepts covered:
 - Python data types: `int`, `float`, `str`, `bool`
 - Type casting (converting between types)
 
