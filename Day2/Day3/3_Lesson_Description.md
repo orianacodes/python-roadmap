@@ -1,4 +1,4 @@
-## Day 3 Conditional Statements
+## Day 3: Conditional Statements
 
 ## Objective
 
