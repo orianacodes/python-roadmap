@@ -17,6 +17,10 @@ As a Computer Science senior, I am focused on building a strong foundation in Py
 
 ## 📁 Folder Organization
 Each folder contains a description, daily lesson and practice exercise.
+DAY _
+- Description
+- Lesson Contents
+- Practice 
 
 ## 🙏 Thank You
 Thank you for taking the time to visit my Python roadmap repository. I appreciate your support :) 
