@@ -32,6 +32,16 @@ print (f"{num1} % {num2} = {num1 % num2}") #modulus (remainder)
 #5.0 % 10.0 = 5.0
 #------------------------------------------------------------#
 
+#boolean 
+is_sunny = True
+is_raining = False
+
+print("Is it sunny today?" ,is_sunny)
+print("is it raining today?", is_raining)
+
+
+
+
 
 
 
