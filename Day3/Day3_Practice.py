@@ -12,20 +12,24 @@
 #   have until they turn 100.
 #Example: "You’re a teenager. You’ll turn 100 in 85 years!"
 
+#Bonus: Add a check to make sure age
+#   is between 0 and 100. If it’s not, print “Invalid age!”
 #--------------------------------------------------#
 
 age = int(input("Enter your age(0-100): "))
 
 if age < 13:
     print("You're a kid!", "You'll turn 100 in ", 100 - age, "years!")
-elif (age >= 13 and age <= 19):
+elif age >= 13 and age <= 19:
     print("You're a teenager.","You'll turn 100 in ", 100 - age, "years!")
-elif (age >= 20 and age <= 64):
+elif age >= 20 and age <= 64:
     print("You're an adult.", "You'll turn 100 in ", 100 - age, "years!")
-else:
+elif age > 64 and age <= 100:
     print("You're a senior.", "You'll turn 100 in ", 100 - age, "years!")
+else:
+    print("Invalid age!")
 
 #---------------Expected Output--------------------#
-    
-#Enter your age(0-100): 24
-#You're an adult. You'll turn 100 in  76 years!
+
+#Enter your age(0-100): 95
+#You're a senior. You'll turn 100 in  5 years!
