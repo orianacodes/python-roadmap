@@ -6,9 +6,9 @@
 
 ## Basic math operations: 
  - addition (+)
- - subtraction(-)
- - multiplication(*)
- - division(/)
+ - subtraction (-)
+ - multiplication (*)
+ - division (/)
  - modulus (%)
   
 ## Notes
