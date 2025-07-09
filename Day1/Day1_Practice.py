@@ -1,5 +1,4 @@
 #Oriana J.
-#07/08/2025
 
 #Day 1 Tasks
 #Write a short script that:
