@@ -21,6 +21,6 @@ Python provides two primary types of loops:
 
 ## Control Statements within Loops
 ```python
-continue
-break
+continue skips the current loop iteration
+break stops the loops  
  
