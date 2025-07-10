@@ -6,7 +6,7 @@ Loops are used to iterate over a sequence such as:
 - string
 - range
 
-
+ ## Example for loop
 ```python
 for i in range(5):
     print(i)
