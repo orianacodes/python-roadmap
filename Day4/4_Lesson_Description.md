@@ -20,7 +20,7 @@ Python provides two primary types of loops:
 - The loop will stop when the condition is False
 
 ## Control Statements within Loops
-break
-- 
 ```python
-continue  
+continue
+break
+ 
