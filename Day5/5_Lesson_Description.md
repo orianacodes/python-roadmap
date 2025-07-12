@@ -11,8 +11,22 @@
 def greet(name): # 'def' defines the function, greet is the function name
    return "Hello, " + name  #gives output when you call it
 
+## Modules
 
-  
+- A module is a Python file (.py) that contains functions, variables, or classes.
+- It is a toolbox of code that you can import into another Python Script
+
+
+## Example: Module
+
+math: basic mathematical functions heres an example of some:
+- sqrt()
+- sin()
+
+random: Generate random numbers
+time: Work with timestamps, time formatting and delays
+
+
 
 
 
