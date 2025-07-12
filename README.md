@@ -23,5 +23,15 @@ Folder Name
 - Lesson Contents
 - Practice 
 
+  Day 1: 
+  Day 2:
+  Day 3:
+  Day 4:
+  Day 5: Functions & Modules
+
+
+
+
+
 ## 🙏 Thank You
 Thank you for taking the time to visit my Python roadmap repository. I appreciate your support :) 
