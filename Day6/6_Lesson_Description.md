@@ -10,7 +10,14 @@ In Python, a **function** is a block of code that only runs when it's called.
 - This is different from `print()`, which only outputs to the screen.
 
 
+### Example:
 
+```python
+def greet(name):
+    return "Hello " + name
+
+message = greet("Ori")
+print(message)  # Output: Hello Ori
 
 
 
