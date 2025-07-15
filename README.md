@@ -9,7 +9,7 @@ This project is part of my personal learning journey and portfolio.
 
 ## 🔗 My Profiles
 GitHub: [@orianacodes](https://github.com/orianacodes)  
-Instagram: [@studytsukue](https://www.instagram.com/studytsukue/)
+
 
 
 ## 🚀 Plans
